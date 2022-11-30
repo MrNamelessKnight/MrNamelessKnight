@@ -1,4 +1,6 @@
-# NamelessMangetsu
+<h1 align="center">
+NamelessMangetsu
+</h1>
 <h3 align="center">
   :D
   <br>
